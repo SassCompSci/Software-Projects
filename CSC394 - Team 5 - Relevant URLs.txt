@@ -1,0 +1,3 @@
+https://csc394.netlify.app/
+https://github.com/wesamjabali/d3l-backend
+https://github.com/wesamjabali/d3l-ui
